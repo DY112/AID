@@ -1,5 +1,10 @@
-# AID
-Official repo of "**Attentive Illumination Decomposition Model for Multi-Illuminant White Balancing**" (CVPR 2024)
+# Attentive Illumination Decomposition Model for Multi-Illuminant White Balancing (CVPR 2024)
+
+*[Dongyoung Kim](https://www.dykim.me/home)*<sup>1</sup>, *[Jinwoo Kim](https://sites.google.com/view/hello-jinwoo)*<sup>1</sup>, *[Junsang Yu](https://sites.google.com/icq.korea.ac.kr/junsangyoo)*<sup>2</sup>, and *[Seon Joo Kim](https://www.ciplab.kr/members/professor)*<sup>1</sup>
+
+<sup>1</sup>Yonsei University  &ensp; <sup>2</sup>Samsung Advanced Institute of Technology
+
+[[Paper](https://arxiv.org/abs/2402.18277)] | [[Project page](https://www.dykim.me/projects/aid)]
 
 
 **[Updates]**
